@@ -1,0 +1,167 @@
+[
+    {
+        "id": 0,
+        "nom": "Hotel Booleano",
+        "pais": "Andorra",
+        "postalCode": "20589",
+        "direccion": "Calle Andorrana 7",
+        "creacion": "1856",
+        "correo": "booleanohotel@gmail.com",
+        "telefono": "657854129",
+        "estrellas": "4",
+        "valoracion": {
+            "tripadvisor": "4",
+            "booking": "7.2"
+        },
+        "precioComidas": {
+            "desayuno": "11",
+            "comida": "17",
+            "cena": "12"
+        },
+        "entretenimientoCercano": [
+            "senderismo",
+            "turismo"
+        ],
+        "instalaciones": [
+            "parking",
+            "cargaVehiculosElectricos",
+            "movilidadReducida",
+            "pistaFutbol",
+            "parqueAcuatico"
+        ],
+        "piscinas": {
+            "piscinasInterior": "2",
+            "piscinasExterior": "4"
+        },
+        "idiomas": [
+            "chino",
+            "español",
+            "ingles",
+            "ruso"
+        ],
+        "otros": []
+    },
+    {
+        "id": 2,
+        "nom": "Hotel variable",
+        "pais": "Algeria",
+        "postalCode": "58965",
+        "direccion": "Calle variador 8",
+        "creacion": "1957",
+        "correo": "variador@gmail.com",
+        "telefono": "971548632",
+        "estrellas": "3",
+        "valoracion": {
+            "tripadvisor": "3",
+            "booking": "0.4"
+        },
+        "precioComidas": {
+            "desayuno": "6",
+            "comida": "10",
+            "cena": "15"
+        },
+        "entretenimientoCercano": [
+            "windsurf",
+            "playa",
+            "pesca",
+            "submarinismo",
+            "senderismo",
+            "turismo"
+        ],
+        "instalaciones": [
+            "parking",
+            "gimnasio",
+            "spa",
+            "bienestar",
+            "wifi",
+            "recreativos",
+            "cargaVehiculosElectricos"
+        ],
+        "piscinas": {
+            "piscinasInterior": "4",
+            "piscinasExterior": "1"
+        },
+        "idiomas": [
+            "bengali",
+            "frances",
+            "noruego",
+            "danes"
+        ],
+        "otros": [
+            "admiteMascotas"
+        ]
+    },
+    {
+        "id": 3,
+        "nom": "Hotel String",
+        "pais": "United",
+        "postalCode": "58954",
+        "direccion": "Calle String",
+        "creacion": "1587",
+        "correo": "string@gmail.com",
+        "telefono": "654787912",
+        "estrellas": "5",
+        "valoracion": {
+            "tripadvisor": "5",
+            "booking": "10"
+        },
+        "precioComidas": {
+            "desayuno": "24",
+            "comida": "100",
+            "cena": "60"
+        },
+        "entretenimientoCercano": [
+            "windsurf",
+            "playa",
+            "pesca",
+            "submarinismo",
+            "senderismo",
+            "turismo"
+        ],
+        "instalaciones": [
+            "parking",
+            "gimnasio",
+            "spa",
+            "bienestar",
+            "wifi",
+            "recreativos",
+            "cargaVehiculosElectricos",
+            "movilidadReducida",
+            "pistaFutbol",
+            "pistaPadel",
+            "pistaBasquet",
+            "salonDeActos",
+            "parqueAcuatico",
+            "parqueInfantil"
+        ],
+        "piscinas": {
+            "piscinasInterior": "10",
+            "piscinasExterior": "10"
+        },
+        "idiomas": [
+            "chino",
+            "español",
+            "ingles",
+            "hindi",
+            "arabe",
+            "portugues",
+            "bengali",
+            "ruso",
+            "japones",
+            "panyabi",
+            "frances",
+            "aleman",
+            "italiano",
+            "turco",
+            "holandes",
+            "sueco",
+            "polaco",
+            "noruego",
+            "danes",
+            "indonesio"
+        ],
+        "otros": [
+            "admiteMascotas"
+        ]
+    }
+]
