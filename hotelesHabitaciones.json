@@ -1,0 +1,320 @@
+[
+    {
+      "id": 0,
+      "nom": "Hotel Six Continents",
+      "estrelles": "2",
+      "habitacions": [
+        {
+          "id": 1,
+          "nom": "África",
+          "llitIndiv": 1,
+          "llitDoble": 0,
+          "imatge": "https://github.com/radamuz/LLMJSON/blob/master/h0hab1.jpg?raw=true",
+          "preu": [
+            {
+              "prov": "Prov1",
+              "tempAlta": false,
+              "moneda": "€",
+              "valorNet": 10.0,
+              "impost": 21,
+              "valorTotal": 12.1
+            },
+            {
+              "prov": "Prov2",
+              "tempAlta": true,
+              "moneda": "€",
+              "valorNet": 15.0,
+              "impost": 21,
+              "valorTotal": 18.15
+            },
+            {
+              "prov": "Prov3",
+              "tempAlta": false,
+              "moneda": "€",
+              "valorNet": 30.0,
+              "impost": 21,
+              "valorTotal": 36.3
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nom": "hab2",
+          "llitIndiv": 0,
+          "llitDoble": 1,
+          "imatge": "https://github.com/radamuz/LLMJSON/blob/master/h0hab2.jpg?raw=true",
+          "preu": [
+            {
+              "prov": "Prov1",
+              "tempAlta": false,
+              "moneda": "€",
+              "valorNet": 20.0,
+              "impost": 16,
+              "valorTotal": 23.2
+            },
+            {
+              "prov": "Prov2",
+              "tempAlta": false,
+              "moneda": "€",
+              "valorNet": 20.0,
+              "impost": 16,
+              "valorTotal": 23.2
+            },
+            {
+              "prov": "Prov3",
+              "tempAlta": true,
+              "moneda": "€",
+              "valorNet": 20.0,
+              "impost": 16,
+              "valorTotal": 23.2
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nom": "hab3",
+          "llitIndiv": 2,
+          "llitDoble": 0,
+          "imatge": "https://github.com/radamuz/LLMJSON/blob/master/h0hab3.jpg?raw=true",
+          "preu": [
+            {
+              "prov": "Prov1",
+              "tempAlta": false,
+              "moneda": "€",
+              "valorNet": 40.0,
+              "impost": 16,
+              "valorTotal": 46.4
+            },
+            {
+              "prov": "Prov2",
+              "tempAlta": false,
+              "moneda": "€",
+              "valorNet": 40.0,
+              "impost": 16,
+              "valorTotal": 46.4
+            },
+            {
+              "prov": "Prov3",
+              "tempAlta": true,
+              "moneda": "€",
+              "valorNet": 40.0,
+              "impost": 16,
+              "valorTotal": 46.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "nom": "Prova 2",
+      "estrelles": "4",
+      "habitacions": [
+        {
+          "id": 1,
+          "nom": "hab1",
+          "llitIndiv": 0,
+          "llitDoble": 2,
+          "imatge": "https://github.com/radamuz/LLMJSON/blob/master/h1hab1.jpg?raw=true",
+          "preu": [
+            {
+              "prov": "Prov1",
+              "tempAlta": false,
+              "moneda": "€",
+              "valorNet": 10.0,
+              "impost": 16,
+              "valorTotal": 11.6
+            },
+            {
+              "prov": "Prov2",
+              "tempAlta": true,
+              "moneda": "€",
+              "valorNet": 10.0,
+              "impost": 16,
+              "valorTotal": 11.6
+            },
+            {
+              "prov": "Prov3",
+              "tempAlta": false,
+              "moneda": "€",
+              "valorNet": 10.0,
+              "impost": 16,
+              "valorTotal": 11.6
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "llitIndiv": 1,
+          "llitDoble": 1,
+          "nom": "hab2",
+          "imatge": "https://github.com/radamuz/LLMJSON/blob/master/h1hab2.jpg?raw=true",
+          "preu": [
+            {
+              "prov": "Prov1",
+              "tempAlta": false,
+              "moneda": "€",
+              "valorNet": 20.0,
+              "impost": 16,
+              "valorTotal": 23.2
+            },
+            {
+              "prov": "Prov2",
+              "tempAlta": false,
+              "moneda": "€",
+              "valorNet": 20.0,
+              "impost": 16,
+              "valorTotal": 23.2
+            },
+            {
+              "prov": "Prov3",
+              "tempAlta": true,
+              "moneda": "€",
+              "valorNet": 20.0,
+              "impost": 16,
+              "valorTotal": 23.2
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nom": "hab3",
+          "llitIndiv": 2,
+          "llitDoble": 0,
+          "imatge": "https://github.com/radamuz/LLMJSON/blob/master/h1hab3.jpg?raw=true",
+          "preu": [
+            {
+              "prov": "Prov1",
+              "tempAlta": false,
+              "moneda": "€",
+              "valorNet": 40.0,
+              "impost": 16,
+              "valorTotal": 46.4
+            },
+            {
+              "prov": "Prov2",
+              "tempAlta": false,
+              "moneda": "€",
+              "valorNet": 40.0,
+              "impost": 16,
+              "valorTotal": 46.4
+            },
+            {
+              "prov": "Prov3",
+              "tempAlta": true,
+              "moneda": "€",
+              "valorNet": 40.0,
+              "impost": 16,
+              "valorTotal": 46.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nom": "Prova 3",
+      "estrelles": "4",
+      "habitacions": [
+        {
+          "id": 1,
+          "nom": "hab1",
+          "llitIndiv": 0,
+          "llitDoble": 1,
+          "imatge": "https://github.com/radamuz/LLMJSON/blob/master/h2hab1.jpg?raw=true",
+          "preu": [
+            {
+              "prov": "Prov1",
+              "tempAlta": false,
+              "moneda": "€",
+              "valorNet": 10.0,
+              "impost": 16,
+              "valorTotal": 11.6
+            },
+            {
+              "prov": "Prov2",
+              "tempAlta": true,
+              "moneda": "€",
+              "valorNet": 10.0,
+              "impost": 16,
+              "valorTotal": 11.6
+            },
+            {
+              "prov": "Prov3",
+              "tempAlta": false,
+              "moneda": "€",
+              "valorNet": 10.0,
+              "impost": 16,
+              "valorTotal": 11.6
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nom": "hab2",
+          "llitIndiv": 1,
+          "llitDoble": 0,
+          "imatge": "https://github.com/radamuz/LLMJSON/blob/master/h2hab2.jpg?raw=true",
+          "preu": [
+            {
+              "prov": "Prov1",
+              "tempAlta": false,
+              "moneda": "€",
+              "valorNet": 20.0,
+              "impost": 16,
+              "valorTotal": 23.2
+            },
+            {
+              "prov": "Prov2",
+              "tempAlta": false,
+              "moneda": "€",
+              "valorNet": 20.0,
+              "impost": 16,
+              "valorTotal": 23.2
+            },
+            {
+              "prov": "Prov3",
+              "tempAlta": true,
+              "moneda": "€",
+              "valorNet": 20.0,
+              "impost": 16,
+              "valorTotal": 23.2
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nom": "hab3",
+          "llitIndiv": 2,
+          "llitDoble": 0,
+          "imatge": "https://github.com/radamuz/LLMJSON/blob/master/h2hab3.jpg?raw=true",
+          "preu": [
+            {
+              "prov": "Prov1",
+              "tempAlta": false,
+              "moneda": "€",
+              "valorNet": 40.0,
+              "impost": 16,
+              "valorTotal": 46.4
+            },
+            {
+              "prov": "Prov2",
+              "tempAlta": false,
+              "moneda": "€",
+              "valorNet": 40.0,
+              "impost": 16,
+              "valorTotal": 46.4
+            },
+            {
+              "prov": "Prov3",
+              "tempAlta": true,
+              "moneda": "€",
+              "valorNet": 40.0,
+              "impost": 16,
+              "valorTotal": 46.4
+            }
+          ]
+        }
+      ]
+    }
+  ]
