@@ -8,9 +8,6 @@
       "restaurante":true,
       "spa":false
     },
-    "gym":false,
-    "restaurante":true,
-    "spa":false,
     "habitacions": [
       {
         "id": 1,
