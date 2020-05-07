@@ -3,6 +3,11 @@
     "id": 0,
     "nom": "Hotel Six Continents",
     "estrelles": "3",
+    "servicios":{
+      "gym":false,
+      "restaurante":true,
+      "spa":false
+    },
     "gym":false,
     "restaurante":true,
     "spa":false,
@@ -112,9 +117,11 @@
     "id": 1,
     "nom": "Colors Hotel",
     "estrelles": "4",
-    "gym":true,
-    "restaurante":true,
-    "spa":false,
+    "servicios":{
+      "gym":true,
+      "restaurante":true,
+      "spa":false
+    },
     "habitacions": [
       {
         "id": 1,
@@ -220,9 +227,11 @@
   {
     "id": 2,
     "nom": "Greek Palace Hotel",
-    "gym":true,
-    "restaurante":true,
-    "spa":true,
+    "servicios":{
+      "gym":true,
+      "restaurante":true,
+      "spa":true
+    },
     "estrelles": "5",
     "habitacions": [
       {
